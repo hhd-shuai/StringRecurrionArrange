@@ -6,3 +6,10 @@
 ```java 
 输入：s = "abc"
 输出：["abc","acb","bac","bca","cab","cba"]
+
+```
+
+图示：
+
+![tushi](E:\idea_java_file\CharArrayPermutation\src\images\tushi.png)
+
