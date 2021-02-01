@@ -11,5 +11,5 @@
 
 图示：
 
-![tushi](E:\idea_java_file\CharArrayPermutation\src\images\tushi.png)
+![tushi](https://github.com/hhd-shuai/StringRecurrionArrange/blob/master/src/images/tushi.png)
 
